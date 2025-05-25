@@ -92,6 +92,10 @@ body{
     background-position: center;
 }
 
+#three:hover{
+    background-position: top;
+}
+
 /* Media Query for width <=1024 or maxwidth: 1024 */
 /* @media(width<= 1024px){}  this is a new feature*/
 
